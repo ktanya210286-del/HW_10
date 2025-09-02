@@ -14,3 +14,8 @@
   237  git checkout main
   238  git merge develop
   239  git log --oneline
+git clone https://github.com/ktanya210286-del/HW_10.git HW_10
+git clone https://github.com/ktanya210286-del/HW_10.git HW_10
+git add .
+git commit -m "Додано .gitignore і виключено text_ignore.txt"
+git push origin main
